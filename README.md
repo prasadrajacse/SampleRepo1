@@ -1,3 +1,5 @@
+Some changes to the file for 4th commit
+
 # QandAWithCLI
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
