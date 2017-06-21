@@ -1,5 +1,7 @@
 Some changes to the file for 7th commit
 
+Some changes to the file for 6th commit
+
 Some changes to the file for 5th commit
 
 Some changes to the file for 4th commit
